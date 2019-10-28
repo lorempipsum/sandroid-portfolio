@@ -766,15 +766,15 @@ button { -webkit-appearance: none; -moz-appearance: none; background: transparen
   .lightbox-popup { width: 95%; max-height: 100%; border-radius: 0; display: -webkit-box; display: -moz-box; display: -ms-flexbox; display: -webkit-flex; display: flex; left: 50%; -webkit-box-orient: horizontal; -moz-box-orient: horizontal; box-orient: horizontal; flex-direction: row; -webkit-box-pack: center; -moz-box-pack: center; box-pack: center; justify-content: center; -webkit-box-align: center; -moz-box-align: center; box-align: center; align-items: center; }
   .lightbox-popup .masonry-panel { padding: 0px; margin: 10px 0 0 0; }
   .lightbox-nav-wrap { position: fixed; top: 0; }
-  .lightbox-image { margin: auto; width: 70vw; max-width: 80vw; max-height: 95vh; height: auto; }
+  .lightbox-image { margin: auto; max-width: 100vw; max-height: 95vh; height: auto; position: fixed; }
   .lightbox-image-description { margin: 0 30px 4px 0; position: fixed; bottom: 0; left: 0; }
   .lightbox-overlay { background-color: rgba(0, 0, 0, 0.95); }
   /*  */
   .lightbox-overlay:target + .lightbox-popup { right: 0; opacity: 1; position: absolute; visibility: visible; height: 99%; box-shadow: 0 3px 7px rgba(0, 0, 0, 0.25); box-sizing: border-box; margin: 0; }
   .lightbox-nav { float: left; width: 33%; }
   .lightbox-popup-close { top: 0px; position: fixed; right: 30px; border: none; opacity: 1; margin: 0; width: auto; height: 40px; border-radius: 0; line-height: 40px; font-size: 26px; font-weight: 400; text-align: center; outline: 0; -webkit-font-smoothing: antialiased; }
-  .lightbox-prev { position: fixed; left: 30px; border: none; opacity: 1; margin: 0; top: -8px; bottom: auto; width: auto; height: 40px; border-radius: 0; line-height: 40px; font-size: 26px; font-weight: 400; text-align: center; outline: 0; -webkit-font-smoothing: antialiased; }
-  .lightbox-next { position: fixed; left: 48%; border: none; opacity: 1; margin: 0; top: -8px; bottom: auto; height: 40px; border-radius: 0; line-height: 40px; font-size: 26px; font-weight: 400; text-align: center; outline: 0; -webkit-font-smoothing: antialiased; }
+  .lightbox-next { right: 0; }
+  .lightbox-prev { left: 0; }
   a.lightbox-prev, a.lightbox-next, a.lightbox-popup-close { font-size: 4em; }
   .lightbox-popup div { margin: 0px; padding-left: 5px; padding-right: 5px; }
   .biopic { padding-left: .2em; }

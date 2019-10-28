@@ -2,48 +2,6 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   
-  <url>
-    <loc>http://localhost:4000https://www.sandroid.dev/sandroid-portfolio//blog/2016/sample-post-with-thumbnail</loc>
-    
-    <lastmod>2016-08-19T00:00:00+01:00</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://localhost:4000https://www.sandroid.dev/sandroid-portfolio//blog/2016/sample-post-with-thumbnail</loc>
-    
-    <lastmod>2016-08-18T00:00:00+01:00</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://localhost:4000https://www.sandroid.dev/sandroid-portfolio//blog/2016/sample-post-with-thumbnail</loc>
-    
-    <lastmod>2016-08-17T00:00:00+01:00</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://localhost:4000https://www.sandroid.dev/sandroid-portfolio//blog/2016/sample-post-with-thumbnail</loc>
-    
-    <lastmod>2016-08-16T00:00:00+01:00</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://localhost:4000https://www.sandroid.dev/sandroid-portfolio//blog/2016/sample-post-with-thumbnail</loc>
-    
-    <lastmod>2016-08-15T00:00:00+01:00</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://localhost:4000https://www.sandroid.dev/sandroid-portfolio//blog/2016/sample-post-with-thumbnail</loc>
-    
-    <lastmod>2016-08-14T00:00:00+01:00</lastmod>
-    
-  </url>
-  
   
   <url>
     <loc>http://localhost:4000https://www.sandroid.dev/sandroid-portfolio//404.html</loc>
@@ -52,6 +10,16 @@
   
   <url>
     <loc>http://localhost:4000https://www.sandroid.dev/sandroid-portfolio//about/</loc>
+    
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000https://www.sandroid.dev/sandroid-portfolio//digital_art/biblesaurus/</loc>
+    
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000https://www.sandroid.dev/sandroid-portfolio//photography/birds/</loc>
     
   </url>
   
@@ -101,12 +69,22 @@
   </url>
   
   <url>
+    <loc>http://localhost:4000https://www.sandroid.dev/sandroid-portfolio//photography/macro/</loc>
+    
+  </url>
+  
+  <url>
     <loc>http://localhost:4000https://www.sandroid.dev/sandroid-portfolio//documentation/navigation/</loc>
     
   </url>
   
   <url>
-    <loc>http://localhost:4000https://www.sandroid.dev/sandroid-portfolio//photography</loc>
+    <loc>http://localhost:4000https://www.sandroid.dev/sandroid-portfolio//photography/night/</loc>
+    
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000https://www.sandroid.dev/sandroid-portfolio//digital_art/prints/</loc>
     
   </url>
   
@@ -126,6 +104,11 @@
   </url>
   
   <url>
+    <loc>http://localhost:4000https://www.sandroid.dev/sandroid-portfolio//digital_art/silly%20photoshops/</loc>
+    
+  </url>
+  
+  <url>
     <loc>http://localhost:4000https://www.sandroid.dev/sandroid-portfolio//documentation/social-icons/</loc>
     
   </url>
@@ -137,36 +120,6 @@
   
   
   
-  
-    <url>
-      <loc>http://localhost:4000https://www.sandroid.dev/sandroid-portfolio//blog/2016/sample-post-with-thumbnail</loc>
-      
-    </url>
-  
-    <url>
-      <loc>http://localhost:4000https://www.sandroid.dev/sandroid-portfolio//blog/2016/sample-post-with-thumbnail</loc>
-      
-    </url>
-  
-    <url>
-      <loc>http://localhost:4000https://www.sandroid.dev/sandroid-portfolio//blog/2016/sample-post-with-thumbnail</loc>
-      
-    </url>
-  
-    <url>
-      <loc>http://localhost:4000https://www.sandroid.dev/sandroid-portfolio//blog/2016/sample-post-with-thumbnail</loc>
-      
-    </url>
-  
-    <url>
-      <loc>http://localhost:4000https://www.sandroid.dev/sandroid-portfolio//blog/2016/sample-post-with-thumbnail</loc>
-      
-    </url>
-  
-    <url>
-      <loc>http://localhost:4000https://www.sandroid.dev/sandroid-portfolio//blog/2016/sample-post-with-thumbnail</loc>
-      
-    </url>
   
   
   
