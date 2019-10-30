@@ -12,7 +12,7 @@
 
 .lightbox-image-div { position: relative; top: 0; bottom: 0; left: 0; right: 0; width: 100%; height: 100%; z-index: 10; display: table; }
 
-.lightbox-image { border: solid white 10x; position: absolute; max-height: 90vh; max-width: 80vw; top: 50%; left: 50%; transform: translate(-50%, -50%); }
+.lightbox-image { border: solid white 10px; position: absolute; max-height: 90vh; max-width: 80vw; top: 50%; left: 50%; transform: translate(-50%, -50%); }
 
 .parent { position: relative; }
 
