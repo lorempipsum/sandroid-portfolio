@@ -34,6 +34,11 @@
   </url>
   
   <url>
+    <loc>http://localhost:4000https://www.sandroid.dev/sandroid-portfolio//photography/doggo/</loc>
+    
+  </url>
+  
+  <url>
     <loc>http://localhost:4000https://www.sandroid.dev/sandroid-portfolio//documentation/header-image/</loc>
     
   </url>
@@ -80,6 +85,11 @@
   
   <url>
     <loc>http://localhost:4000https://www.sandroid.dev/sandroid-portfolio//photography/night/</loc>
+    
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000https://www.sandroid.dev/sandroid-portfolio//photography</loc>
     
   </url>
   
