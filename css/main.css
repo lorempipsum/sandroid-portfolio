@@ -134,9 +134,9 @@ li > ul, li > ol { margin-bottom: 0; }
 h1, h2, h3, h4, h5, h6 { font-weight: 300; }
 
 /**  Links */
-a { outline: none; color: #0C0607; text-decoration: none; }
+a { outline: none; color: #A9241F; text-decoration: none; }
 
-a:hover { color: #3f2025; }
+a:hover { color: #A9241F; }
 
 /** Blockquotes */
 blockquote { color: #658279; border-left: 4px solid #eb9390; padding-left: 15px; font-size: 18px; letter-spacing: -1px; font-style: italic; }
